@@ -1,7 +1,8 @@
 rencana kedepannya:
 -belajar git dan github
 -dapat sertifikat
+ *data dasar
+ *mongodb
 -belajar nodejs
 -buat linkid menjadi asik
 -interview kerja
--paham semua bahasa pemrograman
