@@ -1,0 +1,5 @@
+rencana kedepannya:
+-belajar git dan github
+-belajar nodejs
+-buat linkid menjadi asik
+-interview kerja
