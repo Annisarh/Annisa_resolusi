@@ -1,7 +1,11 @@
 rencana kedepannya:
 -belajar git dan github
 -dapat sertifikat
+ *web responsive
+ *mongodb
+ *react
 -belajar nodejs
 -buat linkid menjadi asik
 -interview kerja
 -paham semua bahasa pemrograman
+-belajar pyton
