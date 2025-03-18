@@ -4,3 +4,4 @@ rencana kedepannya:
 -belajar nodejs
 -buat linkid menjadi asik
 -interview kerja
+-paham semua bahasa pemrograman
