@@ -1,7 +1,6 @@
 rencana kedepannya:
 -belajar git dan github
 -dapat sertifikat
- *web responsive
  *mongodb
  *react
 -belajar nodejs
