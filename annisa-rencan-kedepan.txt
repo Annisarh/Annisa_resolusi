@@ -3,6 +3,7 @@ rencana kedepannya:
 -dapat sertifikat
  *web responsive
  *mongodb
+ *react
 -belajar nodejs
 -buat linkid menjadi asik
 -interview kerja
